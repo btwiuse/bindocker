@@ -1,5 +1,7 @@
 # Minimal Dockerfiles for Binder
 
+[![Binder](http://34.92.164.111/badge_logo.svg)](http://34.92.164.111/v2/gh/btwiuse/bindocker/master)
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/minimal-dockerfile/master)
 
 [Binder](https://mybinder.org) needs only one thing for images to work:
